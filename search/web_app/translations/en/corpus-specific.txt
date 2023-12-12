@@ -1,2 +1,3 @@
 corpus_title	Spoken Corpus of Itsari Dargwa
 langname_itsari	Itsari
+langname_cyrillic	Cyrillic

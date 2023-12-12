@@ -1,2 +1,3 @@
 corpus_title	Устный корпус ицаринского даргинского
 langname_itsari	ицаринский
+langname_cyrillic	кириллица
